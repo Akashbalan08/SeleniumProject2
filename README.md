@@ -1,5 +1,4 @@
 # Selenium Project (Java) with BDD
-![image](https://github.com/user-attachments/assets/89d938a8-0dea-4f52-b539-691ed7971adb)
 
 ## Overview
 This project involves the automation of the end-to-end flow of a demo website using the BDD Cucumber framework with Selenium (Java). The automation process covers the entire flow, starting from logging in and ending with logging out while following a behavior-driven development (BDD) approach with Gherkin syntax.
